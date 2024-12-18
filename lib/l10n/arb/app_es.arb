@@ -1,6 +1,6 @@
 {
     "@@locale": "es",
-    "all": "All",
+    "all": "Todas",
     "@all": {
         "description": "All"
     },
@@ -8,7 +8,7 @@
     "@pending": {
         "description": "Pending"
     },
-    "completed": "Todas",
+    "completed": "Completadas",
     "@completed": {
         "description": "Completed"
     },
