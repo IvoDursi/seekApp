@@ -1,7 +1,75 @@
 {
     "@@locale": "en",
-    "counterAppBarTitle": "Counter",
-    "@counterAppBarTitle": {
-        "description": "Text shown in the AppBar of the Counter Page"
+    "all": "All",
+    "@all": {
+        "description": "All"
+    },
+    "pending": "Pending",
+    "@pending": {
+        "description": "Pending"
+    },
+    "completed": "Completed",
+    "@completed": {
+        "description": "Completed"
+    },
+    "newTask": "New Task",
+    "@newTask": {
+        "description": "New Task"
+    },
+    "name": "Name",
+    "@name": {
+        "description": "Name"
+    },
+    "nameYourTask": "Name Your Task",
+    "@nameYourTask": {
+        "description": "Name Your Task"
+    },
+    "description": "Description",
+    "@description": {
+        "description": "Description"
+    },
+    "describeYourTask": "Describe Your Task",
+    "@describeYourTask": {
+        "describeYourTask": "Describe Your Task"
+    },
+    "dateOfRealization": "Date Of Realization",
+    "@dateOfRealization": {
+        "description": "Date Of Realization"
+    },
+    "enterDate": "Enter date",
+    "@enterDate": {
+        "description": "Enter Date"
+    },
+    "requiredFiled": "This field is required",
+    "@requiredFiled": {
+        "description": "Required field"
+    },
+    "emptyPendingTasks": "There are no pending tasks",
+    "@emptyPendingTasks": {
+        "description": "Empty Pending Tasks"
+    },
+    "emptyCompletedTasks": "There are no completed tasks",
+    "@emptyCompletedTasks": {
+        "description": "Empty completed Tasks"
+    },
+    "emptyTasks": "There are no created tasks",
+    "@emptyTasks": {
+        "description": "Empty Tasks"
+    },
+    "complete": "Complete",
+    "@complete": {
+        "description": "Complete"
+    },
+    "confirm": "Confirm",
+    "@confirm": {
+        "description": "Confirm"
+    },
+    "cancel": "Cancel",
+    "@cancel": {
+        "description": "Cancel"
+    },
+    "deleteConfirmation": "Do you want to delete the task ",
+    "@deleteConfirmation": {
+        "description": "Delete Confirmation"
     }
 }

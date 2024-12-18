@@ -1,0 +1,26 @@
+name: local_storage_service
+description: Local Storage Service
+version: 0.1.0+1
+publish_to: none
+
+environment:
+  sdk: ^3.4.0
+  flutter: ^3.22.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  freezed_annotation: ^2.2.0
+  hive: ^2.0.6
+  hive_flutter: ^1.1.0
+  dartz: ^0.10.1
+  mockito: ^5.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mocktail: ^1.0.4
+  very_good_analysis: ^6.0.0
+  build_runner: ^2.1.10
+  freezed: ^2.2.0
+  json_serializable: ^6.5.4

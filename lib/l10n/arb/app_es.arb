@@ -1,7 +1,75 @@
 {
     "@@locale": "es",
-    "counterAppBarTitle": "Contador",
-    "@counterAppBarTitle": {
-        "description": "Texto mostrado en la AppBar de la página del contador"
+    "all": "All",
+    "@all": {
+        "description": "All"
+    },
+    "pending": "Pendientes",
+    "@pending": {
+        "description": "Pending"
+    },
+    "completed": "Todas",
+    "@completed": {
+        "description": "Completed"
+    },
+    "newTask": "Nueva tarea",
+    "@newTask": {
+        "description": "New Task"
+    },
+    "name": "Nombre",
+    "@name": {
+        "description": "Name"
+    },
+    "nameYourTask": "Nombra tu tarea",
+    "@nameYourTask": {
+        "description": "Name Your Task"
+    },
+    "description": "Descripción",
+    "@description": {
+        "description": "Description"
+    },
+    "describeYourTask": "Describe tu tarea",
+    "@describeYourTask": {
+        "describeYourTask": "Describe Your Task"
+    },
+    "dateOfRealization": "Día de realización",
+    "@dateOfRealization": {
+        "description": "Date Of Realization"
+    },
+    "enterDate": "Ingresa la fecha",
+    "@enterDate": {
+        "description": "Enter Date"
+    },
+    "requiredFiled": "El campo es requerido",
+    "@requiredFiled": {
+        "description": "Required field"
+    },
+    "emptyPendingTasks": "No hay tareas pendientes",
+    "@emptyPendingTasks": {
+        "description": "Empty Pending Tasks"
+    },
+    "emptyCompletedTasks": "No hay tareas completadas",
+    "@emptyCompletedTasks": {
+        "description": "Empty completed Tasks"
+    },
+    "emptyTasks": "No hay tareas creadas",
+    "@emptyTasks": {
+        "description": "Empty Tasks"
+    },
+    "complete": "Completar",
+    "@complete": {
+        "description": "Complete"
+    },
+    "confirm": "Confirmar",
+    "@confirm": {
+        "description": "Confirm"
+    },
+    "cancel": "Cancelar",
+    "@cancel": {
+        "description": "Cancel"
+    },
+    "deleteConfirmation": "¿Deseas eliminar la tarea ",
+    "@deleteConfirmation": {
+        "description": "Delete Confirmation"
     }
 }
