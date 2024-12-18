@@ -31,6 +31,8 @@ class App extends StatelessWidget {
           tasksRepository: context.read<TasksRepository>(),
         ),
         child: MaterialApp(
+          debugShowCheckedModeBanner: false,
+          debugShowMaterialGrid: false,
           theme: ThemeData(
             appBarTheme: AppBarTheme(
               backgroundColor: Colors.lightGreen,
