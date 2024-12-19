@@ -26,7 +26,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   bloc_test: ^9.1.7
-  freezed: ^2.4.5
+  freezed: ^3.0.0-0.0.dev
   build_runner: ^2.4.6
   mocktail: ^1.0.4
   very_good_analysis: ^6.0.0
